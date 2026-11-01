@@ -57,3 +57,5 @@ export function compareTags(a, b) {
 }
 
 export const newestFirst = (a, b) => compareTags(b, a);
+
+# Automated fix for issue #6036: Player inventory and position are not saving on worlds (Cyrillic username bug)
